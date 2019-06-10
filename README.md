@@ -1,5 +1,13 @@
 # Hashtable Implementation
 
+## Compile
+
+On project's root:
+
+```bash
+make
+```
+
 ## Usage
 
 ### Include
